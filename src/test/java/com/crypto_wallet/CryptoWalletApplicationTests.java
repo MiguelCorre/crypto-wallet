@@ -1,4 +1,4 @@
-package com.miguel.crypto_wallet;
+package com.crypto_wallet;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
